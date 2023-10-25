@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 30px;
+}
+
+
+.box{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    width: 100px;
+    aspect-ratio: 1/1;
+    display: inline-block;
+    cursor: pointer;
+    
+}
